@@ -10,9 +10,9 @@
 	</parent>
 	
 	<groupId>com.mswspringcloud</groupId>
-	<artifactId>lab2-server</artifactId>
+	<artifactId>lab3-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>lab2-server</name>
+	<name>lab3-server</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
