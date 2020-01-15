@@ -4,6 +4,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/cirony/microservices-spring-cloud-config
+          uri: https://github.com/cirony/microservices-spring-cloud
+          searchPaths: ConfigData
 server:
   port: 8001
